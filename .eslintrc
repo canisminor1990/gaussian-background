@@ -1,4 +1,4 @@
-{A
+{
   "rules"        : {
     "jsdoc/require-param"                              : 0,
     "jsdoc/require-param-type"                         : 0,
@@ -12,7 +12,7 @@
     "no-inner-declarations"                            : 0,
     "react/display-name"                               : 0,
     "no-bitwise"                                       : 0,
-    "prefer-rest-params"                    A           : 1,
+    "prefer-rest-params"                               : 1,
     "no-useless-constructor"                           : 0,
     "jsx-a11y/media-has-caption"                       : 0,
     "import/no-mutable-exports"                        : 1,
